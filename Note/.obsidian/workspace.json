@@ -1,0 +1,257 @@
+{
+  "main": {
+    "id": "2be520e11724eb42",
+    "type": "split",
+    "children": [
+      {
+        "id": "e7feb445a1e28c2b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c386a6928ca1e9c7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "游戏开发/游戏案例分析/未命名 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2416c341cd9c8d0a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "灵感/灵感memo/调酒游戏.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "75dd95b67b851f70",
+    "type": "split",
+    "children": [
+      {
+        "id": "9bf63bba577717af",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c0a951deac5be0ca",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "38c3cbfc006ff38f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#灵感",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "13f2f219aef85854",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "634176a2cc0304cc",
+            "type": "leaf",
+            "state": {
+              "type": "file-tree-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "daf4e2ba6aae2ff1",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "47eadf86c067403f",
+    "type": "split",
+    "children": [
+      {
+        "id": "c3a5e79cf1796478",
+        "type": "tabs",
+        "dimension": 63.7844611528822,
+        "children": [
+          {
+            "id": "a7227a5ba463b431",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "游戏开发/游戏案例分析/未命名 1.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "59ef6a68f1f5c1a6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "游戏开发/游戏案例分析/未命名 1.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e36540939ce6ee47",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "76caa569a92497bc",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "1bca4f83c164cc00",
+        "type": "tabs",
+        "dimension": 36.2155388471178,
+        "children": [
+          {
+            "id": "256116fc6c2a6c37",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "e9972f2f45aee408",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "游戏开发/游戏案例分析/未命名 1.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 247.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "workspaces:管理工作区布局": false,
+      "file-tree-alternative:File Tree Alternative Plugin": false,
+      "templater-obsidian:Templater": false,
+      "custom-sort:Toggle custom sorting": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "markdown-table-editor:Open Markdown Table Editor": false
+    }
+  },
+  "active": "c386a6928ca1e9c7",
+  "lastOpenFiles": [
+    "Excalidraw/Drawing 2023-10-26 17.29.31.excalidraw.md",
+    "游戏开发/游戏案例分析/《辐射》.md",
+    "Pasted image 20231101222833.png.md",
+    "游戏开发/游戏案例分析/未命名 1.md",
+    "游戏开发/游戏案例分析/《质量效应》三部曲.md",
+    "灵感/灵感memo/街舞游戏.md",
+    "灵感/灵感memo/调酒游戏.md",
+    "游戏开发/游戏案例分析/《GTA》.md",
+    "游戏开发/游戏案例分析/二游《绯色回响》.md",
+    "游戏开发/游戏设计课程/游戏乐趣.md",
+    "游戏开发/游戏设计课程/pic_游戏乐趣2.png",
+    "游戏开发/游戏设计课程/pic_游戏乐趣1.png",
+    "游戏开发/游戏设计课程/Pasted image 20231101222833.png",
+    "游戏开发/Gamejam/2310布谷GameJam/2310布谷GameJam策划总结.md",
+    "游戏开发/Gamejam/2310吉比特/2310吉比特GameJam团队总结.md",
+    "游戏开发/Gamejam/2310吉比特/Pasted image 20231031022838.png",
+    "游戏开发/Gamejam/2310吉比特/Pasted image 20231031023218.png",
+    "游戏开发/Gamejam/2310吉比特/Pasted image 20231031023758.png",
+    "游戏开发/Gamejam/2310吉比特/2310吉比特GameJam策划总结.md",
+    "游戏开发/游戏设计课程/游戏机制.md",
+    "游戏开发/Gamejam/2310布谷GameJam/2310布谷GameJam团队总结.md",
+    "游戏开发/游戏设计课程",
+    "游戏开发/游戏案例分析",
+    "游戏开发",
+    "Gamejam/2310吉比特/Pasted image 20231031024118.png",
+    "游戏开发/Gamejam/2310吉比特",
+    "游戏开发/Gamejam/2310布谷GameJam",
+    "游戏开发/GMTK笔记/GMTK2021-主题《Joined Together》.md",
+    "游戏开发/GMTK笔记/GMTK2020-主题《Out of Control》.md",
+    "游戏开发/GMTK笔记/GMTK游戏截图/GMTK2020/Pasted image 20231026220118.png",
+    "游戏开发/GMTK笔记/GMTK游戏截图/GMTK2020/Pasted image 20231026220054.png",
+    "游戏开发/GMTK笔记/GMTK游戏截图/GMTK2020/Pasted image 20231026220019.png",
+    "游戏开发/GMTK笔记/GMTK2019-主题《only one》.md",
+    "游戏开发/GMTK笔记/GMTK2023-主题《Roles reversed》.md",
+    "游戏开发/GMTK笔记/GMTK2022-主题《Roll of the Dice》.md",
+    "灵感/灵感散记.md",
+    "未命名 3",
+    "游戏开发/GMTK笔记/GMTK游戏截图/GMTK2023",
+    "游戏开发/GMTK笔记/GMTK游戏截图/GMTK2022",
+    "游戏开发/GMTK笔记/GMTK游戏截图/GMTK2021",
+    "游戏开发/GMTK笔记/GMTK游戏截图",
+    "obsidian使用相关/sortspec.md",
+    "日记/2023-10-26.md",
+    "obsidian使用相关/templater/日记模板1.md",
+    "obsidian使用相关/templater/灵感模板1.md",
+    "灵感/灵感memo/1.md"
+  ]
+}

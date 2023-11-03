@@ -1,0 +1,11 @@
+{
+  "additionalSortspecFile": "obsidian使用相关/sortspec.md",
+  "suspended": true,
+  "statusBarEntryEnabled": true,
+  "notificationsEnabled": true,
+  "mobileNotificationsEnabled": false,
+  "customSortContextSubmenu": true,
+  "automaticBookmarksIntegration": true,
+  "bookmarksContextMenus": true,
+  "bookmarksGroupToConsumeAsOrderingReference": "sortspec"
+}

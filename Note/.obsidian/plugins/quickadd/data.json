@@ -1,0 +1,130 @@
+{
+  "choices": [
+    {
+      "id": "89b94f90-b225-419d-a4c4-cf103d5f10dd",
+      "name": "inspire",
+      "type": "Capture",
+      "command": true,
+      "appendLink": false,
+      "captureTo": "灵感/灵感memo/{{VALUE:灵感标题}}.md",
+      "captureToActiveFile": false,
+      "createFileIfItDoesntExist": {
+        "enabled": true,
+        "createWithTemplate": true,
+        "template": "obsidian使用相关/templater/灵感模板1.md"
+      },
+      "format": {
+        "enabled": true,
+        "format": "\n```js quickadd\nlet text = \"\"\ntext = await this.quickAddApi.inputPrompt(\"inspire\",\"输入灵感\",text);\ntext = text.replace(\"\\n\",\"<br>\");\ntext = \"\\n\" + \">[! tip]ins\" + \"\\n\" + \">\" + text + \"\\n\" + \"#灵感\";\nreturn text;\n```"
+      },
+      "insertAfter": {
+        "enabled": false,
+        "after": "",
+        "insertAtEnd": false,
+        "considerSubsections": false,
+        "createIfNotFound": false,
+        "createIfNotFoundLocation": "top"
+      },
+      "prepend": true,
+      "task": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": false,
+      "openFileInMode": "default"
+    },
+    {
+      "id": "2d1e0cd2-c47f-432f-9d1c-eaac558aaec2",
+      "name": "2inspire",
+      "type": "Capture",
+      "command": true,
+      "appendLink": false,
+      "captureTo": "灵感/灵感散记.md",
+      "captureToActiveFile": false,
+      "createFileIfItDoesntExist": {
+        "enabled": false,
+        "createWithTemplate": false,
+        "template": ""
+      },
+      "format": {
+        "enabled": true,
+        "format": "\n```js quickadd\nlet text = \"\"\ntext = await this.quickAddApi.inputPrompt(\"inspire\",\"输入灵感\",text);\ntext = text.replace(\"\\n\",\"<br>\");\ntext = \"\\n\" + \">[! tip]ins\" + \"\\n\" + \">\" + text + \"\\n\" + \"#灵感\";\nreturn text;\n```"
+      },
+      "insertAfter": {
+        "enabled": false,
+        "after": "",
+        "insertAtEnd": false,
+        "considerSubsections": false,
+        "createIfNotFound": false,
+        "createIfNotFoundLocation": "top"
+      },
+      "prepend": false,
+      "task": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": false,
+      "openFileInMode": "default"
+    },
+    {
+      "id": "ab283a16-4604-4ef6-83d1-196e691c580a",
+      "name": "diary",
+      "type": "Capture",
+      "command": true,
+      "appendLink": false,
+      "captureTo": "日记/{{date}}.md",
+      "captureToActiveFile": false,
+      "createFileIfItDoesntExist": {
+        "enabled": true,
+        "createWithTemplate": false,
+        "template": ""
+      },
+      "format": {
+        "enabled": true,
+        "format": "```js quickadd\nlet text = \"\"\ntext = await this.quickAddApi.inputPrompt(\"inspire\",\"输入灵感\",text);\ntext = text.replace(\"\\n\",\"<br>\");\ntext = \"\\n\" + \">[! tip]ins\" + \"\\n\" + \">\" + text + \"\\n\" + \"#灵感\";\nreturn text;\n```"
+      },
+      "insertAfter": {
+        "enabled": false,
+        "after": "",
+        "insertAtEnd": false,
+        "considerSubsections": false,
+        "createIfNotFound": false,
+        "createIfNotFoundLocation": "top"
+      },
+      "prepend": true,
+      "task": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": false,
+      "openFileInMode": "default"
+    }
+  ],
+  "macros": [],
+  "inputPrompt": "single-line",
+  "devMode": false,
+  "templateFolderPath": "",
+  "announceUpdates": true,
+  "version": "1.4.0",
+  "disableOnlineFeatures": true,
+  "ai": {
+    "OpenAIApiKey": "",
+    "defaultModel": "Ask me",
+    "defaultSystemPrompt": "As an AI assistant within Obsidian, your primary goal is to help users manage their ideas and knowledge more effectively. Format your responses using Markdown syntax. Please use the [[Obsidian]] link format. You can write aliases for the links by writing [[Obsidian|the alias after the pipe symbol]]. To use mathematical notation, use LaTeX syntax. LaTeX syntax for larger equations should be on separate lines, surrounded with double dollar signs ($$). You can also inline math expressions by wrapping it in $ symbols. For example, use $$w_{ij}^{\text{new}}:=w_{ij}^{\text{current}}+etacdotdelta_jcdot x_{ij}$$ on a separate line, but you can write \"($eta$ = learning rate, $delta_j$ = error term, $x_{ij}$ = input)\" inline.",
+    "promptTemplatesFolderPath": "",
+    "showAssistant": true
+  },
+  "migrations": {
+    "migrateToMacroIDFromEmbeddedMacro": true,
+    "useQuickAddTemplateFolder": true,
+    "incrementFileNameSettingMoveToDefaultBehavior": true,
+    "mutualExclusionInsertAfterAndWriteToBottomOfFile": true,
+    "setVersionAfterUpdateModalRelease": true
+  }
+}
